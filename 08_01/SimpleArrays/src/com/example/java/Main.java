@@ -21,8 +21,16 @@ public class Main {
             System.out.println(color);
         }
 
-
         System.out.println("Setting an initial size");
+        int[] sized = new int[10];
+            for (int i = 0; i < sized.length; i++) {
+            sized[i] = i * 100;
+
+        }
+
+        for (int value : sized){
+            System.out.println(value);
+        }
 
 
         System.out.println("Copying an array");
