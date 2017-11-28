@@ -34,6 +34,11 @@ public class Main {
 
 
         System.out.println("Copying an array");
+        int[] copied = new int[5];
+        System.arraycopy(sized, 5, copied, 0, 5);
+        for (int value : copied){
+            System.out.println(value);
+        }
 
     }
 
