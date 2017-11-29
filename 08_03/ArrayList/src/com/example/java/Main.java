@@ -24,7 +24,8 @@ public class Main {
         String state = list.get(1);
         System.out.println("The second state is " + state);
 
-        int pos = list.indexOf()
+        int pos = list.indexOf("Alaska");
+        System.out.println("Alaska is at position " + pos);
     }
 
 }
