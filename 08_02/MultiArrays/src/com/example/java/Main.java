@@ -8,7 +8,7 @@ public class Main {
         states[0][0] = "California";
         states[0][1] = "Sacramento";
         states[1][0] = "Oregon";
-        states[1][1] = "Salem";
+        states[1][1] = "Salen";
         states[2][0] = "Washington";
         states[2][1] = "Olympia";
 
