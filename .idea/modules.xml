@@ -5,9 +5,11 @@
       <module fileurl="file://$PROJECT_DIR$/08_03/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/08_03/ArrayList/ArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/09_02/CreateClass/CreateClass.iml" filepath="$PROJECT_DIR$/09_02/CreateClass/CreateClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/08_04/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/08_04/HashMap/HashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_06/InstanceMethods/InstanceMethods.iml" filepath="$PROJECT_DIR$/09_06/InstanceMethods/InstanceMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_05/InstanceVariables/InstanceVariables.iml" filepath="$PROJECT_DIR$/09_05/InstanceVariables/InstanceVariables.iml" />
       <module fileurl="file://$PROJECT_DIR$/08_05/IterateCollections/IterateCollections.iml" filepath="$PROJECT_DIR$/08_05/IterateCollections/IterateCollections.iml" />
       <module fileurl="file://$PROJECT_DIR$/08_02/MultiArrays/MultiArrays.iml" filepath="$PROJECT_DIR$/08_02/MultiArrays/MultiArrays.iml" />
-      <module fileurl="file://$PROJECT_DIR$/09_03/NestedClasses.iml" filepath="$PROJECT_DIR$/09_03/NestedClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_03/NestedClasses/NestedClasses.iml" filepath="$PROJECT_DIR$/09_03/NestedClasses/NestedClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/08_01/SimpleArrays/SimpleArrays.iml" filepath="$PROJECT_DIR$/08_01/SimpleArrays/SimpleArrays.iml" />
     </modules>
   </component>
