@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/10_04/Abstract/Abstract.iml" filepath="$PROJECT_DIR$/10_04/Abstract/Abstract.iml" />
       <module fileurl="file://$PROJECT_DIR$/08_03/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/08_03/ArrayList/ArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/09_08/Constants/Constants.iml" filepath="$PROJECT_DIR$/09_08/Constants/Constants.iml" />
       <module fileurl="file://$PROJECT_DIR$/09_07/Constructors/Constructors.iml" filepath="$PROJECT_DIR$/09_07/Constructors/Constructors.iml" />
