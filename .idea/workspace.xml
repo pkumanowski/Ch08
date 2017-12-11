@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a18d93a-e905-4057-9cdc-abe4639dd217" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_03/Interfaces/Interfaces.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_03/Interfaces/src/com/example/java/Press.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/09_05/InstanceVariables/InstanceVariables.iml" afterPath="$PROJECT_DIR$/09_05/InstanceVariables/InstanceVariables.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -553,7 +549,14 @@
       <option name="project" value="LOCAL" />
       <updated>1512991233780</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="enums">
+      <created>1512992267191</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1512992267191</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="ToolWindowManager">
